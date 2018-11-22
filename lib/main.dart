@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_app/Login.dart';
 import 'package:flutter_app/RandomWords.dart'; // ignore: uri_does_not_exist
 
 
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
           title: new Text('Welcom to flutter'),
         ),
         body: new Center(
-          child: new RandomWords()
+          child: new Login()
         ),
       ),
     );
