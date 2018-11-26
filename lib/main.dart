@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_app/Login.dart';
-import 'package:flutter_app/RandomWords.dart'; // ignore: uri_does_not_exist
+// ignore: uri_does_not_exist
 
 
 void main() => runApp(MyApp());
